@@ -1,0 +1,1 @@
+Egyszerű példa: két fejlesztő (vagy két ág) ugyanazt a sort módosítja a `colors.txt` fájlban.
