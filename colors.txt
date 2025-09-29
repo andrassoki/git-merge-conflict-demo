@@ -1,4 +1,5 @@
-red (warm)
+red (warm) + red (cool)
 green
 blue
 orange
+cyan
