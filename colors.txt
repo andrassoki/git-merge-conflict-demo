@@ -1,3 +1,4 @@
-red
+red (cool)
 green
 blue
+cyan
